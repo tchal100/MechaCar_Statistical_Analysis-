@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 The MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle. We were tasked 
-to find out which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+to find out which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset.
 
 ![](Images/Multiple_Regression.png)
 
